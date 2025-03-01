@@ -1,0 +1,4 @@
+opencv-python>=4.11.0
+mediapipe>=0.10.21
+PyQt5>=5.15.2
+requests>=2.32.3
